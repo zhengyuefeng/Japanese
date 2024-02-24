@@ -1,5 +1,3 @@
-<style>
-  rt:before {
-    content: attr(data-rt);
-  }
-</style>
+rt:before {
+  content: attr(data-rt);
+}
