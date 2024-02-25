@@ -24,6 +24,6 @@
 
 [goo辞書](https://dictionary.goo.ne.jp/)
 
-優しい日本語で書いたニューズ
+優しい日本語で<ruby><span>書</span><rt data-rt="か"></rt></ruby>いたニュース
 
 https://www3.nhk.or.jp/news/easy/
