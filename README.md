@@ -24,7 +24,7 @@
 
 [goo辞書](https://dictionary.goo.ne.jp/)
 
-[](https://www.weblio.jp/
+[weblio](https://www.weblio.jp/)
 
 ### ニュース
 
