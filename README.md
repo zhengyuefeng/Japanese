@@ -4,9 +4,9 @@
 
 [变形公式](./动词宝典/变形公式.md)
 
-### 例文
+### <ruby><span>例文</span><rt data-rt="れいぶん"></rt></ruby>
 
 [01](./例文/01.md)
 
-### 単語
+### <ruby><span>単語</span><rt data-rt="たんご"></rt></ruby>
 
