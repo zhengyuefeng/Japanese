@@ -6,7 +6,7 @@
 
 ### <ruby><span>例文</span><rt data-rt="れいぶん"></rt></ruby>
 
-[第１回](./例文/01.md)
+[第１課](./例文/第１課.md)
 
 ### <ruby><span>単語</span><rt data-rt="たんご"></rt></ruby>
 
@@ -14,5 +14,5 @@
 
 ### <ruby><span>挨拶</span><rt data-rt="あいさつ"></rt></ruby>
 
-[第１回](./例文/挨拶/第１回.md)
+[第１回](./挨拶/第１回.md)
 
