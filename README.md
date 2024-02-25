@@ -20,3 +20,5 @@
 
 [沪江小D](https://dict.hujiang.com/)
 
+[OJAD](https://www.gavo.t.u-tokyo.ac.jp/ojad/)
+
