@@ -16,6 +16,10 @@
 
 [第１回](./挨拶/第１回.md)
 
+### <ruby><span>文法</span><rt data-rt="ぶんぽう"></rt></ruby>
+
+[第１回](./文法/第１回.md)
+
 ### <ruby><span>辞書</span><rt data-rt="じしょ"></rt></ruby>
 
 [沪江小D](https://dict.hujiang.com/)
