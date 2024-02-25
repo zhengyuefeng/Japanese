@@ -5330,3 +5330,15 @@ pre {
 rt:before {
   content: attr(data-rt);
 }
+
+audio::-webkit-media-controls-play-button {
+  display: block;
+}
+
+audio::-webkit-media-controls-volume-slider {
+  display: none;
+}
+
+audio::-webkit-media-controls-timeline {
+  display: none;
+}
