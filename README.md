@@ -6,7 +6,7 @@
 
 ### <ruby><span>例文</span><rt data-rt="れいぶん"></rt></ruby>
 
-[第１課](./例文/第１課.md)
+[<ruby><span>第１課</span><rt data-rt="れいぶん"></rt></ruby>](./例文/第１課.md)
 
 ### <ruby><span>単語</span><rt data-rt="たんご"></rt></ruby>
 
