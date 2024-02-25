@@ -24,6 +24,6 @@
 
 [goo辞書](https://dictionary.goo.ne.jp/)
 
-優しい日本語で
+優しい日本語で書いたニューズ
 
 https://www3.nhk.or.jp/news/easy/
