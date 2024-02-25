@@ -10,3 +10,4 @@
 
 ### <ruby><span>単語</span><rt data-rt="たんご"></rt></ruby>
 
+[単語](./単語.md)
