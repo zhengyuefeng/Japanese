@@ -6,7 +6,7 @@
 
 ### <ruby><span>例文</span><rt data-rt="れいぶん"></rt></ruby>
 
-[01](./例文/01.md)
+[第１回](./例文/01.md)
 
 ### <ruby><span>単語</span><rt data-rt="たんご"></rt></ruby>
 
