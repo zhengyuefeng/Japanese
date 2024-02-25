@@ -16,10 +16,11 @@
 
 [第１回](./挨拶/第１回.md)
 
-### 辞書
+### <ruby><span>辞書</span><rt data-rt="じしょ"></rt></ruby>
 
 [沪江小D](https://dict.hujiang.com/)
 
 [OJAD](https://www.gavo.t.u-tokyo.ac.jp/ojad/)
 
-[goo](https://dictionary.goo.ne.jp/)
+[goo辞書](https://dictionary.goo.ne.jp/)
+
