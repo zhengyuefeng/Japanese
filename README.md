@@ -2,7 +2,7 @@
 
 ### <ruby><span>動詞</span><rt data-rt="どうし"></rt></ruby>
 
-[变形公式](./动词宝典/变形公式.md)
+[变形公式](./動詞/变形公式.md)
 
 ### <ruby><span>例文</span><rt data-rt="れいぶん"></rt></ruby>
 
