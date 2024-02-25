@@ -22,3 +22,4 @@
 
 [OJAD](https://www.gavo.t.u-tokyo.ac.jp/ojad/)
 
+[goo](https://dictionary.goo.ne.jp/)
