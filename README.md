@@ -11,3 +11,6 @@
 ### <ruby><span>単語</span><rt data-rt="たんご"></rt></ruby>
 
 [単語](./単語.md)
+
+### <ruby><span>挨拶</span><rt data-rt="あいさつ"></rt></ruby>
+
