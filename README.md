@@ -18,4 +18,5 @@
 
 ### 辞書
 
-[](https://dict.hujiang.com/)
+[沪江小D](https://dict.hujiang.com/)
+
