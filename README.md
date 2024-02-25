@@ -24,3 +24,6 @@
 
 [goo辞書](https://dictionary.goo.ne.jp/)
 
+優しい
+
+https://www3.nhk.or.jp/news/easy/
