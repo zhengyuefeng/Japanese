@@ -1,5 +1,9 @@
 ## <ruby><span>目錄</span><rt data-rt="もくろく"></rt></ruby>
 
+### <ruby><span>五十音</span><rt data-rt="ごじゅうおん"></rt></ruby>
+
+[例](./五十音/シーツ.md)
+
 ### <ruby><span>動詞</span><rt data-rt="どうし"></rt></ruby>
 
 [例](./動詞/例.md)
