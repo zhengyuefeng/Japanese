@@ -2,7 +2,7 @@
 
 ### <ruby><span>五十音</span><rt data-rt="ごじゅうおん"></rt></ruby>
 
-[例](./五十音/シーツ.md)
+[五十音](./五十音/シーツ.md)
 
 ### <ruby><span>動詞</span><rt data-rt="どうし"></rt></ruby>
 
