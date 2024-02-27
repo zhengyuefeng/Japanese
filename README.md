@@ -42,6 +42,8 @@
 
 [すごい名前生成器](https://namegen.jp/)
 
+[日本語・紙芝居・絵本・イラスト](https://dirty3bears.com/)
+
 ### ニュース
 
 [<ruby><span>優</span><rt data-rt="やさ"></rt></ruby>しい<ruby><span>日本語</span><rt data-rt="にほんご"></rt></ruby>で<ruby><span>書</span><rt data-rt="か"></rt></ruby>いたニュース](https://www3.nhk.or.jp/news/easy/)
