@@ -2,11 +2,9 @@
 
 ### [<ruby><span>五十音</span><rt data-rt="ごじゅうおん"></rt></ruby>](./五十音/シーツ.md)
 
-### [<ruby><span>動詞</span><rt data-rt="どうし"></rt></ruby>](./動詞/例.md)
+### [<ruby><span>動詞</span><rt data-rt="どうし"></rt></ruby>](./動詞/動詞.md)
 
-### <ruby><span>例文</span><rt data-rt="れいぶん"></rt></ruby>
-
-[<ruby><span>第１課</span><rt data-rt="だいいっか"></rt></ruby>](./例文/第１課.md)
+### [<ruby><span>例文</span><rt data-rt="れいぶん"></rt></ruby>](./例文/例文.md)
 
 ### <ruby><span>単語</span><rt data-rt="たんご"></rt></ruby>
 
