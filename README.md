@@ -12,9 +12,7 @@
 
 ### [<ruby><span>文法</span><rt data-rt="ぶんぽう"></rt></ruby>](./文法/文法.md)
 
-### <ruby><span>ビジネス</span><rt data-rt="びじねす"></rt></ruby>
-
-[第１回](./ビジネス/第１回.md)
+### [<ruby><span>ビジネス</span><rt data-rt="びじねす"></rt></ruby>](./ビジネス/ビジネス.md)
 
 ### <ruby><span>辞書</span><rt data-rt="じしょ"></rt></ruby>
 
