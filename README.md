@@ -14,19 +14,7 @@
 
 ### [<ruby><span>ビジネス</span><rt data-rt="びじねす"></rt></ruby>](./ビジネス/ビジネス.md)
 
-### <ruby><span>辞書</span><rt data-rt="じしょ"></rt></ruby>
-
-[沪江小D](https://dict.hujiang.com/)
-
-[OJAD](https://www.gavo.t.u-tokyo.ac.jp/ojad/)
-
-[goo辞書](https://dictionary.goo.ne.jp/)
-
-[weblio](https://www.weblio.jp/)
-
-[すごい名前生成器](https://namegen.jp/)
-
-[日本語・紙芝居・絵本・イラスト](https://dirty3bears.com/)
+### [<ruby><span>辞書</span><rt data-rt="じしょ"></rt></ruby>](./辞書/辞書.md)
 
 ### ニュース
 
