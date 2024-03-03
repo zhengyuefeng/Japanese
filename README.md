@@ -1,8 +1,6 @@
 ## <ruby><span>目錄</span><rt data-rt="もくろく"></rt></ruby>
 
-### <ruby><span>五十音</span><rt data-rt="ごじゅうおん"></rt></ruby>
-
-[五十音](./五十音/シーツ.md)
+### [<ruby><span>五十音</span><rt data-rt="ごじゅうおん"></rt></ruby>](./五十音/シーツ.md)
 
 ### <ruby><span>動詞</span><rt data-rt="どうし"></rt></ruby>
 
@@ -20,9 +18,7 @@
 
 [第１回](./単語/第１回.md)
 
-### <ruby><span>挨拶</span><rt data-rt="あいさつ"></rt></ruby>
-
-[第１回](./挨拶/第１回.md)
+### [<ruby><span>挨拶</span><rt data-rt="あいさつ"></rt></ruby>](./挨拶.md)
 
 ### <ruby><span>文法</span><rt data-rt="ぶんぽう"></rt></ruby>
 
