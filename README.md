@@ -8,11 +8,7 @@
 
 ### <ruby><span>単語</span><rt data-rt="たんご"></rt></ruby>
 
-[仕事](./単語/仕事.md)
-
-[第１回](./単語/第１回.md)
-
-### [<ruby><span>挨拶</span><rt data-rt="あいさつ"></rt></ruby>](./挨拶.md)
+### [<ruby><span>挨拶</span><rt data-rt="あいさつ"></rt></ruby>](./挨拶/挨拶.md)
 
 ### <ruby><span>文法</span><rt data-rt="ぶんぽう"></rt></ruby>
 
