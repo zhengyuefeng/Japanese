@@ -1,0 +1,23 @@
+## [<ruby><span>目錄</span><rt data-rt="もくろく"></rt></ruby>](../README.md)
+
+### [例文](./例文.md)
+
+#### 第１課
+
+##### 〜です
+
+<ruby><span>私</span><rt data-rt="わたし"></rt></ruby>は<u><ruby><span>学生</span><rt data-rt="がくせい"></rt></ruby></u>です。
+
+<u>わたし</u>はアンです。
+
+<ruby><span>家族</span><rt data-rt="かぞく"></rt></ruby>は７<u><ruby><span>人</span><rt data-rt="にん"></rt></ruby></u>です。
+
+うちに猫がいます。「いる」
+
+<ruby><span>一人</span><rt data-rt="ひとり"></rt></ruby>
+
+<ruby><span>二人</span><rt data-rt="ふたり"></rt></ruby>
+
+<ruby><span>三人</span><rt data-rt="さんにん"></rt></ruby>
+
+中国にディズニーランドがあります。「ある」
